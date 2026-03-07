@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthjaiswal06&label=Profile%20views&color=0e75b6&style=flat" alt="parthjaiswal06" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthjaiswal06" alt="parthjaiswal06" /></a> </p>
-
 - 💼 Currently learning Machine Learning and made a [Campus Wifi Congestion Predictor](https://github.com/ParthJaiswal06/WIFI_CONGESTION_PREDICTOR_ML_PROJECT)
 
 - 🌱 I’m currently learning DSA with **C++**
