@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning DSA with **C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ParthJaiswal06](https://github.com/ParthJaiswal-md)
+- 👨‍💻 All of my projects are available at [https://github.com/ParthJaiswal-md](https://github.com/ParthJaiswal-md)
 
 - 📫 You can Reach me via **parthjaiswal.professional@gmail.com**
 
